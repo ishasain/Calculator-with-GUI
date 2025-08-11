@@ -45,6 +45,8 @@ Operator	Operation	Example	Result
 
 
 📷Screenshot
+
+
 <img width="377" height="197" alt="Screenshot 2025-08-11 221817" src="https://github.com/user-attachments/assets/362466f4-daca-4df8-ba34-1fa36f7f8a24" />
 <img width="510" height="397" alt="Screenshot 2025-08-11 221624" src="https://github.com/user-attachments/assets/cba83864-0957-4d90-9bab-d4c2479ab1ef" />
 
