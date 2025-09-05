@@ -181,4 +181,5 @@ class CalculatorGUI {
             resultLabel.setText("Error: Invalid number");
         }
     }
+
 }
